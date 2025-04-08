@@ -22,7 +22,7 @@
 	?>
 	<hr>
 	<div class="topnav">
-		<a href="index.php">Home</a>
+		<a href="index.php">Illu</a>
 		<a href="#aboutUs">About Us</a>
 		<a href="#contactUs">Contact Us</a>
 		<a href="menu.php">Menu</a>
